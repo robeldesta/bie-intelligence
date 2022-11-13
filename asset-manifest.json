@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bie-intelligence/static/css/main.540f8af8.css",
+    "main.css": "/bie-intelligence/static/css/main.a87b5992.css",
     "main.js": "/bie-intelligence/static/js/main.dd5f58b5.js",
     "static/media/intelligentAdvisory.png": "/bie-intelligence/static/media/intelligentAdvisory.f9a60e9ce6c8598496bb.png",
     "static/media/business-intelligence.png": "/bie-intelligence/static/media/business-intelligence.0a59f0d946127a48afa1.png",
@@ -10,11 +10,11 @@
     "static/media/app-store.png": "/bie-intelligence/static/media/app-store.62aae73ae4087ecd4ca3.png",
     "static/media/logo.png": "/bie-intelligence/static/media/logo.4c2ca3c6f1e8c062f9c2.png",
     "index.html": "/bie-intelligence/index.html",
-    "main.540f8af8.css.map": "/bie-intelligence/static/css/main.540f8af8.css.map",
+    "main.a87b5992.css.map": "/bie-intelligence/static/css/main.a87b5992.css.map",
     "main.dd5f58b5.js.map": "/bie-intelligence/static/js/main.dd5f58b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.540f8af8.css",
+    "static/css/main.a87b5992.css",
     "static/js/main.dd5f58b5.js"
   ]
 }
