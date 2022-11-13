@@ -12,8 +12,8 @@ const Hero = () => {
         <div className='w-full h-screen bg-zinc-200 flex flex-col justify-between'>
             <div className='grid md:grid-cols-2 max-w-[1240px] m-auto'>
                 <div className='flex flex-col justify-center md:items-start w-full px-2 py-8'>
-                    <p className='text-2xl'>Ethiopia’s Business Insight and Solution Firm</p>
-                    <h1 className='py-3 text-5xl md:text-7xl font-bold'>Business Intelligence</h1>
+                    <p className='text-2xl'>Business Insights and Solutions</p>
+                    <h1 className='py-2 text-5xl md:text-7xl font-bold uppercase'>bie intelligence</h1>
                     <h1 className='text-2xl'>Purpose-driven firm with data and technology to augment business decisions</h1>
                     <button className='py-3 px-8 sm:w-[60%] my-4'>Get Started</button>
                 </div>
