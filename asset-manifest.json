@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bie-intelligence/static/css/main.edef9c87.css",
-    "main.js": "/bie-intelligence/static/js/main.27bddf72.js",
-    "static/media/intelligentAdvisory.png": "/bie-intelligence/static/media/intelligentAdvisory.f9a60e9ce6c8598496bb.png",
-    "static/media/business-intelligence.png": "/bie-intelligence/static/media/business-intelligence.0a59f0d946127a48afa1.png",
-    "static/media/support.jpg": "/bie-intelligence/static/media/support.13dffa5bdb3a671bcb5b.jpg",
-    "static/media/mockupWhite.png": "/bie-intelligence/static/media/mockupWhite.0b1d811605ddb7f70c1c.png",
-    "static/media/logo.png": "/bie-intelligence/static/media/logo.4c2ca3c6f1e8c062f9c2.png",
-    "index.html": "/bie-intelligence/index.html",
-    "main.edef9c87.css.map": "/bie-intelligence/static/css/main.edef9c87.css.map",
-    "main.27bddf72.js.map": "/bie-intelligence/static/js/main.27bddf72.js.map"
+    "main.css": "/static/css/main.edef9c87.css",
+    "main.js": "/static/js/main.918c219c.js",
+    "static/media/intelligentAdvisory.png": "/static/media/intelligentAdvisory.f9a60e9ce6c8598496bb.png",
+    "static/media/business-intelligence.png": "/static/media/business-intelligence.0a59f0d946127a48afa1.png",
+    "static/media/support.jpg": "/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/mockupWhite.png": "/static/media/mockupWhite.0b1d811605ddb7f70c1c.png",
+    "static/media/logo.png": "/static/media/logo.4c2ca3c6f1e8c062f9c2.png",
+    "index.html": "/index.html",
+    "main.edef9c87.css.map": "/static/css/main.edef9c87.css.map",
+    "main.918c219c.js.map": "/static/js/main.918c219c.js.map"
   },
   "entrypoints": [
     "static/css/main.edef9c87.css",
-    "static/js/main.27bddf72.js"
+    "static/js/main.918c219c.js"
   ]
 }
