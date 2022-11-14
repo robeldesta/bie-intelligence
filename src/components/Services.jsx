@@ -9,7 +9,7 @@ import {
 
 const Services = () => {
   return (
-    <div className='w-full h-full mt-24'>
+    <div name="services" className='w-full h-full mt-24'>
         <div className='w-full h-[700px] bg-gray-900/90 absolute'>
             <img className='w-full h-full object-cover mix-blend-overlay' src={SupportImage} alt="Support" />
         </div>        
@@ -20,7 +20,7 @@ const Services = () => {
                 <p className='text-3xl text-center py-4 text-slate-300'>We collect the relevant data and visualize it in ways that help you understand what it means, so increasing the efficiency and effectiveness of business decision-making.</p>         
             </div>
             <div className='grid grid-cols-1 lg:grid-cols-3 gap-x-8 gap-y16 px-4 py-16 sm:pt-20 text-black'>
-                <div className='bg-white rounded-xl shadow-2xl'>
+                <div className='bg-white rounded-xl shadow-2xl my-5'>
                     <div className='p-8'>
                         <ChartBarIcon className='w-16 p-4 bg-amber-400 text-white rounded-lg mt-[-4rem]' />
                         <h3 className='font-bold mt-6 text-2xl'>Market Data</h3>
@@ -30,7 +30,7 @@ const Services = () => {
                         <p className='flex text-indigo-600 text-center'>Find out More <ArrowSmRightIcon className='w-5 ml-2' /></p>
                     </div>                      
                 </div>
-                <div className='bg-white rounded-xl shadow-2xl'>
+                <div className='bg-white rounded-xl shadow-2xl my-5'>
                     <div className='p-8'>
                         <LightBulbIcon className='w-16 p-4 bg-amber-400 text-white rounded-lg mt-[-4rem]' />
                         <h3 className='font-bold mt-6 text-2xl'>Insights</h3>
@@ -40,7 +40,7 @@ const Services = () => {
                         <p className='flex text-indigo-600 text-center'>Find out More <ArrowSmRightIcon className='w-5 ml-2' /></p>
                     </div>                      
                 </div>
-                <div className='bg-white rounded-xl shadow-2xl'>
+                <div className='bg-white rounded-xl shadow-2xl my-5'>
                     <div className='p-8'>
                         <SearchCircleIcon className='w-16 p-4 bg-amber-400 text-white rounded-lg mt-[-4rem]' />
                         <h3 className='font-bold mt-6 text-2xl'>Outlooks</h3>
